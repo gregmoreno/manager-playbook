@@ -61,7 +61,7 @@ I don't expect this to be a replacement for actually getting to know each other,
 - We will keep a running agenda for our 1:1. I encourage you to check it throughout the week and write anything you might want to talk about. I would also appreciate it if you spend a few minutes beforehand reviewing our agenda so that we can maximize our time together.
 - 1:1s are not for urgent matters.
 
-### Nuances
+## Nuances
 
 - I am an internal thinker and this often makes others feel I'm not engaged. I am simply internalizing everything before I speak.
 - I'm an introvert. I'm comfortable with meetings but terrible with parties and networking events. In large group, I prefer to listen and stay quiet until I'm asked for my opinion.
