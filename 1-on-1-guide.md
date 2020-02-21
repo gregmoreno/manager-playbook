@@ -119,6 +119,13 @@
 - What have you been wanting to **learn more of, get better at, and im- prove on**? How can we here at the company support you in doing that?
 - When have you felt that this company was **one of the best places** you’ve ever worked? How can I make this place the best place you’ve ever worked?
 
+**Making progress visible**
+- How will you know when you're done with that task?
+- What steps will you take?
+- Which part will you work on first?
+- Do you need to collaborate with anyone else on this?
+- How will you know you're making progress?
+
 ## References
 
 - A Guide to One-on-One Meetings for Managers. Claire Lew, CEO of Know Your Team
