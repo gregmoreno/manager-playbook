@@ -7,26 +7,26 @@ Handle exceptional situations. Exceptional situations are outages, and anything 
 ## Operating Principles
 
 - At any given time at least 1 engineer is responsible for attending exceptional issues.
-- The engineer should remain contactable for the duration of the oncall shift.
+- The engineer should remain contactable for the duration of the on-call shift.
 - The on-call engineer should mitigate the impact of the issue whatever means necessary including shortcut solutions that will not solve the problem in the long term.
 - If the on-call engineer cannot resolve the issue or does not acknowledge the alert, there is an escalation system whereby other engineers become involved.
 - The on-call engineer is responsible for all communication and coordination regardless if the issue was escalated to other engineers.
 - After the issue is managed, follow-up work should be done during normal business hours - root cause analysis, postmortems, and working on long-term solutions.
 
-## OnCall Calendar
+## On-Call Calendar
 
-- An engineer is oncall for one week at a time.
-- Each engineer should have at least 2 weeks between oncall shifts to work on projects on normal hours.
+- An engineer is on-call for one week at a time.
+- Each engineer should have at least 2 weeks between on-call shifts to work on projects on normal hours.
 
-## OnCall Readiness
+## On-Call Readiness
 
-The oncall engineer should check the following during normal business hours:
+The on-call engineer should check the following during normal business hours:
 
 - Check access to resources - e.g. logins, VPNs
 - Check laptop/charger, phone are ready (especially if remote)
 - Check access to playbooks.
 
-## Being OnCall
+## Being On-Call
 
 - Once alerted, acknowledge the alert so it will not escalate.
 - Triage → Coordinate → Mitigate → Resolve → Followup
@@ -51,7 +51,7 @@ The oncall engineer should check the following during normal business hours:
         - technical cause: lack of testing, untested failure, deployment failure
         - component where the incident started
         - re-occurrence or not
-    - The oncall engineer takes the lead, organizing and running postmortem reviews.
+    - The on-call engineer takes the lead, organizing and running postmortem reviews.
     - Update the playbook if necessary (e.g. use of better tools)
 
 ## Postmortems
@@ -78,7 +78,7 @@ The oncall engineer should check the following during normal business hours:
 
 ## Long-Term Improvements
 
-- Training plan as part of onboarding process. New engineers should be able to take oncall shifts on Month 4.
+- Training plan as part of onboarding process. New engineers should be able to take on-call shifts on Month 4.
 - “Game Day” exercises.
 - Regular stress testing and failover testing.
 - Monitoring for “sick” systems rather than “down” systems.
@@ -89,8 +89,8 @@ The oncall engineer should check the following during normal business hours:
 
 - How are outages detected? (automatic monitoring? customer complaints?)
 - Is there a playbook for common failover scenarios and outage-related duties?
-- Is there an oncall calendar?
-- How is the oncall calendar created?
+- Is there an on-call calendar?
+- How is the on-call calendar created?
 - Can other regions cover for each other other for extended periods of time?
 - Do you write postmortems or incident reports? Is there a deadline for when a postmortem must be completed?
 - Is there a standard template for postmortems?
